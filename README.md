@@ -1,4 +1,4 @@
-# this Quiz Application using Java Swing and AWT
+# This Quiz Application using Java Swing and AWT
 Overview
 This document provides a brief overview and instructions for the Quiz Application developed using Java Swing and AWT. The application allows users to take quizzes by answering multiple-choice questions.
 
